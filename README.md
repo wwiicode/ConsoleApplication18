@@ -1,2 +1,2 @@
-# ConsoleApplication18
-SortingMethods
+# Sorting Algorithms written in C#
+
